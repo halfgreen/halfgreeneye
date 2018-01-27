@@ -1,2 +1,0 @@
-# halfgreeneye
-Kelly's world
