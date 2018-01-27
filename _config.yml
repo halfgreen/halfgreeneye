@@ -1,6 +1,7 @@
 remote_theme: mmistakes/minimal-mistakes
 title: Galaxy NGC 891
 include: ["_pages"]
+
 author:
   name: "Kelly C"
   avatar: "https://c2.staticflickr.com/4/3843/32574779863_2f9379d41f.jpg"
